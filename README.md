@@ -1,6 +1,6 @@
 Welcome to the Community Food Systems Wiki!
 
-We're still setting this space set up. Thank you for your patience!
+We're still setting up this space. Thank you for your patience!
 
 ## CFS Community Chat
 
