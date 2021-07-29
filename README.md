@@ -9,7 +9,7 @@ Please visit our [CFS Main Chat Channel](https://chat.collectivesensecommons.org
 ## CFS Weekly Planning Meeting
 
 - Tuesdays 9-10:30 am (PT)
-- Zoom link: https://us02web.zoom.us/j/87356518875
+- Zoom link: [https://us02web.zoom.us/j/87356518875](https://us02web.zoom.us/j/87356518875)
 
 The purpose of this meeting is to engage with committed stakeholders on critical topics to the CFS group. These sessions will tend toward working sessions to address one to two critical questions, brainstorm ideas or troubleshoot issues.
 
