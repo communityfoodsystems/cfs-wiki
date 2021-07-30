@@ -29,11 +29,14 @@ If you have any questions or suggestions, please reach out to us in the channel
 
 ### Meetings
 
-#### CFS Weekly Planning Meeting Agenda
-First Header | Second Header | Second Header
+CFS Weekly Planning Meeting Agenda (90 minutes)
+Topic | Time | Section Notes
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the third column
+Check-ins | 10 minutes | Type of check-in will vary depending on attendance size.
+Progress Update | 10 minutes | Led by Anne or Klaus.
+Hot Topic(s) | 60 minutes | Led by relevant stakeholder(s). The weekly topic will be shared prior to the meeting.
+Wrap-up | 5 minutes | Review of next steps for the discussed topic(s). Review of next steps to any parking lot topics.
+Meeting Check-in | 5 minutes | Feedback on your satisfaction with the meeting; score of 1 to 5. 1 = Very Dissatisfied to 5 = Very Satisfied.
 
 ### Policies and Agreements
 
