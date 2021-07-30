@@ -6,6 +6,8 @@ We're still setting up this space. Thank you for your patience!
 
 Please visit our [CFS Main Chat Channel](https://chat.collectivesensecommons.org/agora/channels/cfs-community-food-systems---main-channel) and say hello!
 
+If you have any questions or suggestions, please reach out to us in the channel.
+
 ## CFS Weekly Planning Meeting
 
 - Tuesdays 9-10:30 am (PT)
