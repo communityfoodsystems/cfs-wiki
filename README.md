@@ -2,18 +2,40 @@ Welcome to the Community Food Systems Wiki!
 
 We're still setting up this space. Thank you for your patience!
 
-## CFS Community Chat
+## Overview of Community Food Systems
 
-Please visit our [CFS Main Chat Channel](https://chat.collectivesensecommons.org/agora/channels/cfs-community-food-systems---main-channel) and say hello!
-
-If you have any questions or suggestions, please reach out to us in the channel.
-
-## CFS Weekly Planning Meeting
+### CFS Weekly Planning Meeting
 
 - Tuesdays 9-10:30 am (PT)
 - Zoom link: [https://us02web.zoom.us/j/87356518875](https://us02web.zoom.us/j/87356518875)
 
 The purpose of this meeting is to engage with committed stakeholders on critical topics to the CFS group. These sessions will tend toward working sessions to address one to two critical questions, brainstorm ideas or troubleshoot issues.
+
+### CFS Community Chat
+
+Please visit our [CFS Main Chat Channel](https://chat.collectivesensecommons.org/agora/channels/cfs-community-food-systems---main-channel) and say hello!
+
+If you have any questions or suggestions, please reach out to us in the channel
+
+## Meetings
+
+
+
+## Policies and Agreements
+
+## Research
+
+## Case Clinics
+
+## Prototype Development
+
+## Brand and Marketing
+
+
+
+
+
+
 
 ### Agenda (90 minutes of allotted meeting time)
 
