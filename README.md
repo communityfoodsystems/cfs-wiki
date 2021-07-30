@@ -6,8 +6,6 @@ We're still setting up this space. Thank you for your patience!
 
 Who is CFS? What are our goals?
 
-
-
 ## Engaging with the Community Food Systems Team
 
 ### CFS Weekly Planning Meeting
@@ -21,22 +19,21 @@ The purpose of this meeting is to engage with committed stakeholders on critical
 
 Please visit our [CFS Main Chat Channel](https://chat.collectivesensecommons.org/agora/channels/cfs-community-food-systems---main-channel) and say hello!
 
-If you have any questions or suggestions, please reach out to us in the channel
+If you have any questions or suggestions, please reach out to us in the channel.
 
-
-
-## Documenation
+## Documentation
 
 ### Meetings
 
 CFS Weekly Planning Meeting Agenda (90 minutes)
-Topic | Time | Section Notes
------------- | ------------- | -------------
-Check-ins | 10 minutes | Type of check-in will vary depending on attendance size.
-Progress Update | 10 minutes | Led by Anne or Klaus.
-Hot Topic(s) | 60 minutes | Led by relevant stakeholder(s). The weekly topic will be shared prior to the meeting.
-Wrap-up | 5 minutes | Review of next steps for the discussed topic(s). Review of next steps to any parking lot topics.
-Meeting Check-in | 5 minutes | Feedback on your satisfaction with the meeting; score of 1 to 5. 1 = Very Dissatisfied to 5 = Very Satisfied.
+
+| Topic | Time | Section Notes |
+| ------------ | ------------- | ------------- |
+| Check-ins | 10 minutes | Type of check-in will vary depending on attendance size. |
+| Progress Update | 10 minutes | Led by Anne or Klaus. |
+| Hot Topic(s) | 60 minutes | Led by relevant stakeholder(s). The weekly topic will be shared prior to the meeting. |
+|  Wrap-up | 5 minutes | Review of next steps for the discussed topic(s). Review of next steps to any parking lot topics. |
+|  Meeting Check-in | 5 minutes | Feedback on your satisfaction with the meeting; score of 1 to 5.<br />1 = Very Dissatisfied to 5 = Very Satisfied. |
 
 ### Policies and Agreements
 
