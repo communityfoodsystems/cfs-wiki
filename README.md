@@ -31,6 +31,7 @@ If you have any questions or suggestions, please reach out to us in the channel
 
 CFS Weekly Planning Meeting Agenda (90 minutes)
 Topic | Time | Section Notes
+------------ | ------------- | -------------
 Check-ins | 10 minutes | Type of check-in will vary depending on attendance size.
 Progress Update | 10 minutes | Led by Anne or Klaus.
 Hot Topic(s) | 60 minutes | Led by relevant stakeholder(s). The weekly topic will be shared prior to the meeting.
