@@ -4,6 +4,10 @@ We're still setting up this space. Thank you for your patience!
 
 ## Overview of Community Food Systems
 
+Who is CFS? What are our goals?
+
+
+
 ## Engaging with the Community Food Systems Team
 
 ### CFS Weekly Planning Meeting
@@ -18,6 +22,8 @@ The purpose of this meeting is to engage with committed stakeholders on critical
 Please visit our [CFS Main Chat Channel](https://chat.collectivesensecommons.org/agora/channels/cfs-community-food-systems---main-channel) and say hello!
 
 If you have any questions or suggestions, please reach out to us in the channel
+
+
 
 ## Documenation
 
