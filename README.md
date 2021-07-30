@@ -4,6 +4,8 @@ We're still setting up this space. Thank you for your patience!
 
 ## Overview of Community Food Systems
 
+## Engaging with the Community Food Systems Team
+
 ### CFS Weekly Planning Meeting
 
 - Tuesdays 9-10:30 am (PT)
@@ -17,19 +19,19 @@ Please visit our [CFS Main Chat Channel](https://chat.collectivesensecommons.org
 
 If you have any questions or suggestions, please reach out to us in the channel
 
-## Meetings
+## Documenation
 
+### Meetings
 
+### Policies and Agreements
 
-## Policies and Agreements
+### Research
 
-## Research
+### Case Clinics
 
-## Case Clinics
+### Prototype Development
 
-## Prototype Development
-
-## Brand and Marketing
+### Brand and Marketing
 
 
 
