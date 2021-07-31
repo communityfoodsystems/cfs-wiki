@@ -43,4 +43,4 @@ CFS Weekly Planning Meeting Agenda (90 minutes)
 
 ### Prototype Development
 
-### Brand and Marketing
+### [Brand and Marketing](https://wiki.communityfoodsystems.org/brand_and_marketing/readme)
