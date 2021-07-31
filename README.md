@@ -38,18 +38,3 @@ If you have any questions or suggestions, please reach out to us in the channel.
 ### [Research](https://wiki.communityfoodsystems.org/research/readme)
 
 ### [Training Materials](https://wiki.communityfoodsystems.org/training_materials/readme) 
-
-### Meetings
-
-CFS Weekly Planning Meeting Agenda (90 minutes)
-
-| Topic | Time | Section Notes |
-| ------------ | ------------- | ------------- |
-| Check-ins | 10 minutes | Type of check-in will vary depending on attendance size. |
-| Progress Update | 10 minutes | Led by Anne or Klaus. |
-| Hot Topic(s) | 60 minutes | Led by relevant stakeholder(s). The weekly topic will be shared prior to the meeting. |
-|  Wrap-up | 5 minutes | Review of next steps for the discussed topic(s). Review of next steps to any parking lot topics. |
-|  Meeting Check-in | 5 minutes | Feedback on your satisfaction with the meeting; score of 1 to 5.<br />1 = Very Dissatisfied to 5 = Very Satisfied. |
-
-
-
