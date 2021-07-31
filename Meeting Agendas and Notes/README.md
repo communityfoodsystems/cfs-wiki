@@ -13,4 +13,4 @@ The page will serve as the home for all meeting agenda and notes.
 
 ## Meetings
 
-[CFS Weekly Planning Meeting Agenda - 2021-08-02](https://docs.google.com/document/d/1ln3cgCsoZ9DYqxUhjIY7B92RpqbmQ7dz0Lz-fvtYp7w/edit#)
+[CFS Weekly Planning Meeting Agenda - 2021-08-02](https://docs.google.com/document/d/1ln3cgCsoZ9DYqxUhjIY7B92RpqbmQ7dz0Lz-fvtYp7w/edit?usp=sharing)
